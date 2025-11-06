@@ -1,99 +1,85 @@
-### <div align="center">I'm Sheik, a Flutter developer and AI Data Science👨‍💻 working remotely since 2022 🚀</div>  
-  
+# Hi — I’m Sheik 👋
 
-- 🔭 I’m currently working on a personal development  
-  
+Flutter Developer • AI & Data Science Engineer • Full-Stack & Multi-Agent System Architect
 
-- 🌱 I’m currently learning AWS and Kotlin  
-  
+I build intelligent, production-ready applications that combine **AI, multi-agent orchestration, and full-stack engineering**. My expertise spans frontend development in **Flutter and React**, backend systems with **Python (FastAPI)** and **Node.js**, and AI integrations using **LLMs, Autogen, LangGraph, and MCP**. Currently working as an **AI Engineer at TCS**, based in Sweden — open to collaborations in advanced AI and system design.
 
-- ❓ Ask me about anything related to Flutter and related 
-  technologies  
-  
+---
 
-<br/>  
+## 🔭 What I Do
 
+* Build responsive, high-performance apps using **Flutter, React, and Dart**.
+* Architect scalable APIs and real-time backends with **Node.js**, **FastAPI**, and **Python**.
+* Develop **multi-agent systems** leveraging **LangGraph**, **Autogen**, and **A2A** frameworks.
+* Integrate **AI/ML** pipelines for reasoning, summarization, and automation.
+* Design and deploy **cloud-native solutions** using **AWS** and **Google Cloud SDK (ADK)**.
+* Prototype, test, and ship intelligent features — from ideation to deployment.
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+---
 
+## 🧰 Tech Stack & Tools
 
+**Frontend:** Flutter, Dart, React, TailwindCSS, Riverpod, Provider, Bloc
+**Backend:** Node.js, FastAPI, Flask, Streamlit
+**AI / ML:** LLMs, Transformers, LangGraph, Autogen, MCP, A2A, TTS, Vector DBs (FAISS, Weaviate), Gemini CLI
+**Cloud & Infra:** AWS, Google Cloud SDK (ADK), Docker, GitHub Actions
+**Databases:** MySQL, MongoDB, Firebase, NoSQL
+**Dev Tools:** Git, Linux, VS Code, Cursor IDE, Gemini CLI
 
-### Languages  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
+---
 
-</td><td valign="top" width="33%">
+## 🚀 Selected Projects
 
 
+* **HR Hub — Multi-Agent HR Assistant**
 
-### Softwares  
-<div align="center">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-</div>
+  * Tackles HR challenges like employee turnover, shift scheduling, and upskilling.
+  * Built using Flutter (frontend), Python/FastAPI (backend), and LangGraph for agent orchestration.
 
-</td><td valign="top" width="33%">
+* **BBC News Localisation Intelligence**
 
+  * AI system that adapts national or global BBC articles into regionally contextualized content using Gemini APIs.
 
+* **Localization Demo & Dashboard**
 
-### Platforms  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-</div>
+  * Interactive dashboard for managing content localization, ESG summaries, and editorial review pipelines.
 
-</td></tr></table>  
+* **Thansira Travels (Static Site)**
 
-<br/>  
+  * Flutter-based static travel website, hosted via Cloudflare with GoDaddy-managed DNS.
 
+---
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/sheikahamed17" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/sdsheikahamed" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/sd-sheik-ahamed" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/sdsheik7" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+## 🧩 How I Work
 
-<br/>  
+* Focus on modular, maintainable, and testable systems.
+* Iterate quickly — from whiteboard sketches to working prototypes.
+* Integrate AI responsibly with human-in-the-loop workflows.
+* Prioritize scalability, readability, and efficient automation.
 
+---
 
+## 🎯 Current Focus
 
+* Advancing **multi-agent orchestration** via LangGraph, Autogen, and A2A.
+* Enhancing **AI evaluation, monitoring, and automation pipelines**.
+* Deploying **MCP-based distributed assistants** in real-world scenarios.
+* Building a deeper understanding of **AWS AI services and GCP integrations**.
 
-<br/>  
+---
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=sheikahamed17&&style=flat-square" align="center" />
-</div>  
- 
-<br/>  
-<br />
+## 📫 Get in Touch
+
+* GitHub: [sheikahamed17](https://github.com/sheikahamed17)
+* LinkedIn: [https://www.linkedin.com/in/sd-sheik-ahamed/](https://www.linkedin.com/in/sd-sheik-ahamed/)
+* Email: [sdsheikahamed@gmail.com](mailto:sdsheikahamed@gmail.com)
+
+---
+
+## 🧠 Fun Fact
+
+When I’m not building AI systems or apps, you’ll find me exploring **superbikes and cars** — especially Triumph bikes and Toyota mods.
+
+---
+
+*Last updated: November 6, 2025*

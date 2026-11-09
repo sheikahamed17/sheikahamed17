@@ -8,7 +8,7 @@ Mostly Python and TypeScript, occasionally Dart when a Flutter app needs buildin
 
 ## 🔨 What I'm building
 
-### 🫀 [pulse](https://github.com/sheikahamed17/pulse) — a local-first life-OS
+### 🫀 [Lifeloom](https://github.com/sheikahamed17/lifeloom) — a local-first life-OS
 Money, tasks, learning and notes. Say *"lunch 240"* out loud and it files itself.
 
 The fun part isn't the CRUD — it's the sync. Every change is an append-only op stamped with a **hybrid logical clock**, so my phone and laptop converge deterministically with no "who won?" tiebreak. Server tables are just projections; I can rebuild them from the log whenever I like. And the query agents return a *plan* the client runs locally, so my actual entries never leave the device.
